@@ -22,7 +22,7 @@ Hit the deploy to heroku button and follow the further instructions in the scree
 
 **NB: Usage of Aria2 may leads to the suspension of your heroku account so deploy at your own risk.**
 
-<a href="https://heroku.com/deploy?template=ttps://github.com/yesraaj11/Torrent-Mirror-Bot-1">
+<a href="https://heroku.com/deploy?template=https://github.com/yaara11/Torrent-Mirror-Bot-1">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
@@ -53,7 +53,7 @@ OR use online terminal
 
 ``` pkg install python wget ```
 
-``` wget https://raw.githubusercontent.com/yesraaj11/Torrent-Mirror-Bot-1/python-aria-mirror-bot/master/generate_drive_token.py ```
+``` wget https://raw.githubusercontent.com/yaara11/Torrent-Mirror-Bot-1/master/generate_drive_token.py ```
 
 ``` pip install oauth2client ```
 
@@ -101,7 +101,7 @@ OR use online terminal
 
 ``` pkg install python wget ``` (if not installed earlier)
 
-``` wget https://raw.githubusercontent.com/yesraaj11/Torrent-Mirror-Bot-1/python-aria-mirror-bot/master/generate_string_session.py ```
+``` wget https://raw.githubusercontent.com/yaara11/Torrent-Mirror-Bot-1/master/generate_string_session.py ```
 
 ``` pip install pyrogram tgcrypto ```
 
